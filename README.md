@@ -1,6 +1,6 @@
 # Sentiment Analysis Project
 
-This is a Sentiment Analysis project that classifies text as **positive** or **negative** based on the sentiment expressed in the input. The project is built using machine learning, deep learning natural and language processing (NLP) techniques
+This is a Sentiment Analysis project that classifies text as **positive** or **negative** based on the sentiment expressed in the input. The project is built using machine learning, deep learning and natural language processing (NLP) techniques.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
